@@ -1,0 +1,1 @@
+*/15 * * * * /opt/anaconda3/bin/python /app/run_data_updater.sh
